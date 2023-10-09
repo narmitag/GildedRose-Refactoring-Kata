@@ -1,2 +1,3 @@
 
 fixed test_guilded_rose.py so it passed   (changed fixme to foo)
+updated function to set degrade rate to a variable
